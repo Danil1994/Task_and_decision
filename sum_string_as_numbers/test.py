@@ -1,5 +1,5 @@
 import pytest
-from sum_string_as_numbers import sum_strings
+from main_code import sum_strings
 
 
 @pytest.mark.parametrize('x, y, expected', [
