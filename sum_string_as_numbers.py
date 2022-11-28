@@ -24,6 +24,3 @@ def sum_strings(one, two):
         answer.remove('0')
 
     return ''.join(answer)
-
-#wtf !!!! del it!!!
-print(sum_strings('1', '123'))
