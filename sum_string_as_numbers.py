@@ -25,5 +25,5 @@ def sum_strings(one, two):
 
     return ''.join(answer)
 
-
+#wtf !!!! del it!!!
 print(sum_strings('1', '123'))
